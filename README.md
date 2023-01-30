@@ -1,4 +1,4 @@
-# keys-on-SQL
+# keys-on-MySQL
 #Project from cognitive class by IBM
 hello !! In this project shows how to create and add keys on Mysql databes 
 
